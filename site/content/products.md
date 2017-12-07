@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Coffeessssss
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -98,6 +98,12 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
+      price: '3,000'
+    - description: Details here on great other ideas
+      items:
+        - test 1
+        - test 2
+      plan: Best
       price: '?'
 ---
 
